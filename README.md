@@ -9,6 +9,16 @@ This web application demonstrates the working principles of Huffman encoding and
 - **Tree Visualization**: The application displays the Huffman tree used in the encoding process.
 - **File Download**: Encoded and decoded files can be easily downloaded after processing.
 
+## Screenshots
+
+- **Logo**
+
+![Logo](Screenshot/Logo.png)
+
+- **File Zipper Interface**
+
+![File Zipper](Screenshot/fileZipper.png)
+
 ## Technologies Used
 
 - **JavaScript**: Handles Huffman encoding and decoding logic.
